@@ -3,9 +3,6 @@
 # Portfólio de Projetos de Governança de TI
 
 Bem-vindo ao meu portfólio de projetos no GitHub, onde compartilho uma coleção de projetos relacionados à governança de TI. Como profissional de TI, meu objetivo é garantir que a tecnologia seja gerenciada de maneira eficaz e esteja alinhada com os objetivos estratégicos da organização. Isso envolve a definição de políticas, práticas e processos para otimizar o uso de recursos de TI e mitigar riscos.
-
-Projetos Destacados:
-
 Framework de Governança de TI: Neste portfólio, desenvolvi um framework personalizado de governança de TI com base em padrões reconhecidos, como o COBIT (Control Objectives for Information and Related Technologies). Ele inclui políticas, procedimentos e indicadores-chave de desempenho para avaliar o alinhamento de TI com os objetivos de negócios.
 
 Avaliação de Riscos de TI: Um repositório que abrange metodologias de avaliação de riscos de TI, incluindo análises de vulnerabilidades, ameaças e impactos. Demonstro como identificar e mitigar riscos relacionados à segurança da informação e continuidade de negócios.
